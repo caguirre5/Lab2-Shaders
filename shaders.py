@@ -417,4 +417,4 @@ def toon2(render, **kwargs):
     if intensity > 0:
         return r, g, b
     else:
-        return 0, 0, 0
+        return 1, 0, 1
